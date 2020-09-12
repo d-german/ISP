@@ -1,0 +1,13 @@
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.exe
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.deps.json
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.json
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.dev.json
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.dll
+C:\CS236-projects\ISP\ISP\bin\Debug\netcoreapp3.1\ISP.pdb
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.csprojAssemblyReference.cache
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfoInputs.cache
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfo.cs
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.csproj.CoreCompileInputs.cache
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.dll
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.pdb
+C:\CS236-projects\ISP\ISP\obj\Debug\netcoreapp3.1\ISP.genruntimeconfig.cache
