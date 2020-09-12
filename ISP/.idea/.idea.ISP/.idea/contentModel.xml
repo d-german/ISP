@@ -3,9 +3,11 @@
   <component name="ContentModelStore">
     <e p="C:\CS236-projects\ISP\ISP" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
+      <e p="IDrive.cs" t="Include" />
+      <e p="IFly.cs" t="Include" />
       <e p="ISP.csproj" t="IncludeRecursive" />
       <e p="ISP.sln" t="IncludeFlat" />
-      <e p="IVehicle.cs" t="Include" />
+      <e p="MultiFunctionalCar.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp3.1" t="Include">

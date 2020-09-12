@@ -22,7 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="769f711d-ebc1-4ed2-bc64-c93a1fb90324" name="Default Changelist" comment="" />
+    <list default="true" id="769f711d-ebc1-4ed2-bc64-c93a1fb90324" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IVehicle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiFunctionalCar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +39,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/IDrive.cs" />
+        <option value="$PROJECT_DIR$/IFly.cs" />
         <option value="$PROJECT_DIR$/IVehicle.cs" />
         <option value="$PROJECT_DIR$/Program.cs" />
       </list>
@@ -83,13 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1599931268573</updated>
       <workItem from="1599931287112" duration="1684000" />
+      <workItem from="1599933398934" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -101,26 +109,31 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1599932972401">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1599934057889">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@0.0.1920.1050" timestamp="1599934057889" />
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@1920.0.1920.1080" timestamp="1599932972401" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1599932972401">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1599934057889">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@0.0.1920.1050" timestamp="1599934057889" />
     <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@1920.0.1920.1080" timestamp="1599932972401" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1599932972401">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1599934057889">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@0.0.1920.1050" timestamp="1599934057889" />
     <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@1920.0.1920.1080" timestamp="1599932972401" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1599932972401">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1599934057889">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@0.0.1920.1050" timestamp="1599934057889" />
     <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.6.1920.1050/1920.0.1920.1080/0.1080.1280.720/0.0.1920.1050@1920.0.1920.1080" timestamp="1599932972401" />
   </component>
 </project>
