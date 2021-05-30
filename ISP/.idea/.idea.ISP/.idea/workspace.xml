@@ -23,10 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="769f711d-ebc1-4ed2-bc64-c93a1fb90324" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IVehicle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiFunctionalCar.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IDrive.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IDrive.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiFunctionalCar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiFunctionalCar.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +34,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="0-starter" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/IDrive.cs" />
-        <option value="$PROJECT_DIR$/IFly.cs" />
-        <option value="$PROJECT_DIR$/IVehicle.cs" />
-        <option value="$PROJECT_DIR$/Program.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/IDrive.cs" />
+      <option value="$PROJECT_DIR$/MultiFunctionalCar.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1hQ73kjFNF39xdhdI3OzVRjC61n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,6 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
